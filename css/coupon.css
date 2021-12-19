@@ -1,0 +1,25 @@
+#img1{
+   height: 500px;
+    width: 400px;
+    margin-left:-5px;
+}
+   
+#img2{
+   height: 500px;
+   width: 400px;
+   margin-left:130px;
+}
+
+#order{
+   background-color:red;
+   border-radius:5%;
+   color:white;
+   font-family: cursive;
+   margin-top:10px;
+   margin-left:42%;
+}
+
+.container{
+   background-color:grey;
+   width:55%;
+}
